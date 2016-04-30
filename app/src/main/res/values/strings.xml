@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Helper</string>
+    <string name="title_section1">설명-기본</string>
+    <string name="title_section2">설명-심화</string>
+    <string name="info_a">P-Project 애플리케이션 설명서\n이 애플리케이션이 설치된 기기에 특정 명령어를 문자로 보내면 해당하는 정보를 답장으로 받게 됩니다.\n휴대전화가 재부팅 된경우 다시 어플리케이션이 자동으로 문자 감지를 시작합니다.\n기기에 따라 답장까지 최대 30초가 소요되기도 합니다\n\n명령어는 문자로 애플리케이션이 설치된 기기에 보내야 하며, \n문자를 보낸 휴대기기 번호로 답장이 갑니다.</string>
+    <string name="info_b">명령어 목록.\n\n#생존\n- 휴대기기가 켜진 상태인지 확인시켜줍니다\n\n#상태\n- 배터리 잔량,온도,카메라 실행여부,gps 사용여부를 확인시켜줍니다\n\n#플래시\n- 플래시를 1초 간격으로 8번 깜빡입니다\n\n#사이렌\n- 사이렌을 최대 볼륨으로 약 1분 30초간 실행합니다\n\n#위치알림\n-플래시 기능과 사이렌 기능을 동시에 실행합니다\n\n#진동\n- 10초간 최대 세기로 진동합니다\n\n#녹화중지\n-녹화중이라면 녹화를 중지합니다\n\n#GPS_STATE\n-휴대기기 gps가 켜져 있는지 확인해줍니다\n\n#GPS_SEND\n- 현재 기기의 GPS 좌표를 전송합니다\n기기의 gps가 꺼져 있어도 작동합니다\n\n#GPS_TRACK_ON\n- GPS 좌표가 갱신될 때마다 자동으로 문자로 좌표를 보냅니다.\n\n#GPS_TRACK_OFF\n- 위 기능을 끕니다</string>
+</resources>
